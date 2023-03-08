@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Jacob A. Matthews
+title: about
 permalink: /
 subtitle: 
 
