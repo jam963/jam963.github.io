@@ -11,7 +11,7 @@ profile:
   address: >
     jam963 at cornell dot edu
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -30,8 +30,10 @@ I also collaborate with people in:
 - [Humanities Lab at Cornell][humlab]
 - [Cornell NLP][nlp]
 
-Some recent projects:
--
+Some recent and ongoing projects:
+- "Grokking Wug Vectors". Jacob A. Matthews and Marten van Schijndel. 36th Annual Conference on Human Sentence Processing, 2023. [(abstract)][grokkingabstract] [(poster)][grokkingposter]
+- "Give or take a few representations". John R. Starr, Jacob A. Matthews, and Marten van Schijndel. [(ongoing)][giveortake]
+- "Poetry, AI and the Mind: A Humanities-Cognitive Science Transdisciplinary Exploration” with Morten Christiansen, Laurent Dubreuil, and Pablo Contreras Kallens (ongoing).
 
 
 [romance]: https://romancestudies.cornell.edu/
@@ -42,3 +44,7 @@ Some recent projects:
 [cpsyd]: https://c-psyd.github.io/
 [nlp]: https://nlp.cornell.edu/
 [humlab]: https://blogs.cornell.edu/humanitieslab/
+
+[grokkingabstract]: /assets/pdf/hsp_2023_revised_poster_jam963.pdf
+[grokkingposter]: /assets/pdf/jam963_hsp2023_revised.pdf
+[giveortake]: https://github.com/johnstarr-ling/light-verb-construction-embeddings
