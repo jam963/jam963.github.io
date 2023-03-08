@@ -45,6 +45,6 @@ Some recent and ongoing projects:
 [nlp]: https://nlp.cornell.edu/
 [humlab]: https://blogs.cornell.edu/humanitieslab/
 
-[grokkingabstract]: /assets/pdf/hsp_2023_revised_poster_jam963.pdf
-[grokkingposter]: /assets/pdf/jam963_hsp2023_revised.pdf
+[grokkingposter]: /assets/pdf/hsp_2023_revised_poster_jam963.pdf
+[grokkingabstract]: /assets/pdf/jam963_hsp2023_revised.pdf
 [giveortake]: https://github.com/johnstarr-ling/light-verb-construction-embeddings
