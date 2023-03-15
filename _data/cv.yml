@@ -4,14 +4,14 @@
     - name: Full Name
       value: Jacob A. Matthews
     - name: Languages
-      value: English, French
+      value: English (native), French (fluent), German (intermediate) 
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Cornell University
-      year: 2024 (anticipated)
+      year: 2025 (anticipated)
       description:
         - Romance Studies (French), minor in Cognitive Science
         - title: Committee
@@ -24,7 +24,7 @@
       year: 2019
       description:
         - French and Francophone Studies, concentration in Economics
-        - Honors in French and Romance Philology,<i> magna cum laude </i>
+        - Departmental Honors in French and Romance Philology,<i> magna cum laude </i>
   
 - title: Academic Interests
   type: nested_list
@@ -47,8 +47,19 @@
         - Marcel Proust and linguistic descriptions of memory.
         - Michel Serres, Gilles Deleuze, Jacques Derrida.
 
+- title: Presentations
+  type: nested_list
+  contents:
+    - title: <q>Grokking Wug Vectors</q>
+      items: March 10th, 2023. <i>36th Annual Conference on Human Sentence Processing</i>, Pittsburgh, PA, USA.
+
+    - title: <q>Poetry and Large Language Models</q>
+      items: September 21st, 2022. <i>Romance Studies Graduate Colloquium</i>, Cornell University, Ithaca, NY, USA.
+
+    - title: <q>Humanists and GPT-3</q>
+      items: May 7th, 2022. <i>Art & Science of Thinking</i>, Cornell University, Ithaca, NY, USA.
 
 - title: Other Interests
   type: list
   contents:
-    - Birdwatching, modular synths, tea (工夫茶)
+    - Birdwatching, modular synthesizers
