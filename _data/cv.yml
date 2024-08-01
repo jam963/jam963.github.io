@@ -47,6 +47,12 @@
         - Marcel Proust and linguistic descriptions of memory.
         - Michel Serres, Gilles Deleuze, Jacques Derrida.
 
+- title: Publications
+  type: nested_list
+  contents:
+    - title: <q> Semantics or spelling? Probing contextual word embeddings with orthographic noise </q>
+      items: <i>Findings of the Association for Computational Linguistics</i>, 2024
+
 - title: Presentations
   type: nested_list
   contents:
@@ -58,8 +64,3 @@
 
     - title: <q>Humanists and GPT-3</q>
       items: May 7th, 2022. <i>Art & Science of Thinking</i>, Cornell University, Ithaca, NY, USA.
-
-- title: Other Interests
-  type: list
-  contents:
-    - Birdwatching, modular synthesizers
